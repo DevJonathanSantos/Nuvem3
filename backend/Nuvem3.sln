@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{749BDE3D-587D-4EF7-8386-C0773C980F5D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{3CEA3121-86C5-499F-BF7A-62303596C8F6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nuvem3", "app\Nuvem3\Nuvem3.csproj", "{291095CF-EDD3-4B7C-823F-92785C6ABDC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nuvem3.WebApi", "app\Nuvem3.WebApi\Nuvem3.WebApi.csproj", "{517BE086-1702-4DC4-83B3-07B2A468E3B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{291095CF-EDD3-4B7C-823F-92785C6ABDC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{291095CF-EDD3-4B7C-823F-92785C6ABDC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{291095CF-EDD3-4B7C-823F-92785C6ABDC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{291095CF-EDD3-4B7C-823F-92785C6ABDC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{517BE086-1702-4DC4-83B3-07B2A468E3B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{517BE086-1702-4DC4-83B3-07B2A468E3B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{517BE086-1702-4DC4-83B3-07B2A468E3B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{517BE086-1702-4DC4-83B3-07B2A468E3B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{291095CF-EDD3-4B7C-823F-92785C6ABDC4} = {749BDE3D-587D-4EF7-8386-C0773C980F5D}
+		{517BE086-1702-4DC4-83B3-07B2A468E3B0} = {3CEA3121-86C5-499F-BF7A-62303596C8F6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15DEB37F-1CF4-4C8A-BD32-01D13F0BFAF9}
+	EndGlobalSection
+EndGlobal
