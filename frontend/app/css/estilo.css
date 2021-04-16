@@ -8,7 +8,24 @@
 .container{
     position: relative;
     width: 85%;
-        margin-top: 2%;
+        margin-top: 0px;
+        margin-bottom: 0px;
     padding: 0%;
-    box-shadow: 1px 1px 4px black;
+    /* box-shadow: 1px 1px 4px black; */
+}
+.card{
+    background-color: aliceblue;
+}
+.mulher{
+    background-color: antiquewhite;
+}
+
+.cadastrar{
+    width: 100%;
+    background-color: burlywood;
+}
+
+#btncad{
+    width: 100%;
+
 }

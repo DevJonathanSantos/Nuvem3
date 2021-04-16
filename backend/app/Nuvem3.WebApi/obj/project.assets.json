@@ -64,19 +64,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Dev04\\.nuget\\packages\\": {}
+    "C:\\Users\\jojor\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\Nuvem3\\backend\\app\\Nuvem3.WebApi\\Nuvem3.WebApi.csproj",
+      "projectUniqueName": "D:\\Projects\\Nuvem3\\backend\\app\\Nuvem3.WebApi\\Nuvem3.WebApi.csproj",
       "projectName": "Nuvem3.WebApi",
-      "projectPath": "C:\\Projetos\\Nuvem3\\backend\\app\\Nuvem3.WebApi\\Nuvem3.WebApi.csproj",
-      "packagesPath": "C:\\Users\\Dev04\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\Nuvem3\\backend\\app\\Nuvem3.WebApi\\obj\\",
+      "projectPath": "D:\\Projects\\Nuvem3\\backend\\app\\Nuvem3.WebApi\\Nuvem3.WebApi.csproj",
+      "packagesPath": "C:\\Users\\jojor\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\Nuvem3\\backend\\app\\Nuvem3.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Dev04\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jojor\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -90,8 +90,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Projetos\\Nuvem3\\backend\\app\\Nuvem3\\Nuvem3.csproj": {
-              "projectPath": "C:\\Projetos\\Nuvem3\\backend\\app\\Nuvem3\\Nuvem3.csproj"
+            "D:\\Projects\\Nuvem3\\backend\\app\\Nuvem3\\Nuvem3.csproj": {
+              "projectPath": "D:\\Projects\\Nuvem3\\backend\\app\\Nuvem3\\Nuvem3.csproj"
             }
           }
         }
@@ -129,7 +129,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

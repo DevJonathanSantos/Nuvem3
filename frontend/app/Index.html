@@ -19,19 +19,26 @@
     <img src="https://www.nuvem3.com.br/images/nuvem3_logo_site.png" width="160" height="60" title="Nuvem3">
 </div>
 
+<div class="cadastrar">
+  <button id="btncad" class="btn-secondary">Cadastrar novo cliente</button>
+</div>
+
 <div class="container">
     <div class="row row-cols-1 row-cols-md-4 g-4">
         <div class="col" ng-repeat="cliente in clientes">
-          <div class="card">
-            <img src="../../download (1).jpg" class="card-img-top" alt="...">
+          <div ng-class="{mulher:cliente.Sexo=='F'}" class="card">
             <div class="card-body">
               <h5 class="card-title">{{cliente.Nome}}</h5>
               <p class="card-text">Idade: {{cliente.DataDeNascimento | idade}}</p>
+              <p class="card-text">Email: {{cliente.Email}}</p>
+              <p class="card-text">Telefone: {{cliente.Telefone}}</p>
+              <p class="card-text">Idade: {{cliente.DataDeNascimento | idade}}</p>
+              <button class="btn btn-danger">Excluir</button>
+              <button class="btn btn-secondary">Editar</button>
             </div>
           </div>
         </div>
     </div>    
-</div>
-    
+</div>    
 </body>
 </html>

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\Nuvem3\\backend\\app\\Nuvem3\\Nuvem3.csproj": {}
+    "D:\\Projects\\Nuvem3\\backend\\app\\Nuvem3\\Nuvem3.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\Nuvem3\\backend\\app\\Nuvem3\\Nuvem3.csproj": {
+    "D:\\Projects\\Nuvem3\\backend\\app\\Nuvem3\\Nuvem3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Nuvem3\\backend\\app\\Nuvem3\\Nuvem3.csproj",
+        "projectUniqueName": "D:\\Projects\\Nuvem3\\backend\\app\\Nuvem3\\Nuvem3.csproj",
         "projectName": "Nuvem3",
-        "projectPath": "C:\\Projetos\\Nuvem3\\backend\\app\\Nuvem3\\Nuvem3.csproj",
-        "packagesPath": "C:\\Users\\Dev04\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Nuvem3\\backend\\app\\Nuvem3\\obj\\",
+        "projectPath": "D:\\Projects\\Nuvem3\\backend\\app\\Nuvem3\\Nuvem3.csproj",
+        "packagesPath": "C:\\Users\\jojor\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Nuvem3\\backend\\app\\Nuvem3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dev04\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jojor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
