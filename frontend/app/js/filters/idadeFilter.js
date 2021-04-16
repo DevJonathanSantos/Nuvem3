@@ -1,5 +1,7 @@
 angular.module("Nuvem3").filter("idade",function(){
     return function(data){
+        if(data==undefined)
+        return;
         var d = new Date,
         ano_atual = d.getFullYear(),
         mes_atual = d.getMonth() + 1,
