@@ -1,15 +1,17 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 using Nuvem3.Entities;
+using Nuvem3.WebApi.ViewModels;
+using System;
 using System.Collections.Generic;
 
 namespace Nuvem3.WebApi.Controllers
 {
-    [Route("api/teste")]
+    [Route("api/cliente")]
     [ApiController]
     public class Nuvem3Controller : ControllerBase
     {
-        [HttpGet("get")]
+        [HttpGet("buscar")]
         public string Buscar()
         {
             var listaDeClientes = new List<Cliente>
@@ -28,6 +30,24 @@ namespace Nuvem3.WebApi.Controllers
             var json = JsonConvert.SerializeObject(listaDeClientes);
 
             return json;
+        }
+
+        [HttpPost("editar")]
+        public string Editar(ClienteViewModel cliente)
+        {
+            return null;
+        }
+
+        [HttpPost("cadastrar")]
+        public string Cadastrar(ClienteViewModel cliente)
+        {
+            return null;
+        }
+
+        [HttpPost("remover")]
+        public string Remover(Guid id)
+        {
+            return null;
         }
     }
 }

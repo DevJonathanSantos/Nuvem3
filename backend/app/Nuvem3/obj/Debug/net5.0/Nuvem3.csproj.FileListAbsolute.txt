@@ -26,7 +26,6 @@ D:\Projects\Nuvem3\backend\app\Nuvem3\bin\Debug\net5.0\Nuvem3.deps.json
 D:\Projects\Nuvem3\backend\app\Nuvem3\bin\Debug\net5.0\Nuvem3.dll
 D:\Projects\Nuvem3\backend\app\Nuvem3\bin\Debug\net5.0\ref\Nuvem3.dll
 D:\Projects\Nuvem3\backend\app\Nuvem3\bin\Debug\net5.0\Nuvem3.pdb
-D:\Projects\Nuvem3\backend\app\Nuvem3\obj\Debug\net5.0\Nuvem3.csprojAssemblyReference.cache
 D:\Projects\Nuvem3\backend\app\Nuvem3\obj\Debug\net5.0\Nuvem3.GeneratedMSBuildEditorConfig.editorconfig
 D:\Projects\Nuvem3\backend\app\Nuvem3\obj\Debug\net5.0\Nuvem3.AssemblyInfoInputs.cache
 D:\Projects\Nuvem3\backend\app\Nuvem3\obj\Debug\net5.0\Nuvem3.AssemblyInfo.cs
@@ -34,3 +33,7 @@ D:\Projects\Nuvem3\backend\app\Nuvem3\obj\Debug\net5.0\Nuvem3.csproj.CoreCompile
 D:\Projects\Nuvem3\backend\app\Nuvem3\obj\Debug\net5.0\Nuvem3.dll
 D:\Projects\Nuvem3\backend\app\Nuvem3\obj\Debug\net5.0\ref\Nuvem3.dll
 D:\Projects\Nuvem3\backend\app\Nuvem3\obj\Debug\net5.0\Nuvem3.pdb
+D:\Projects\Nuvem3\backend\app\Nuvem3\bin\Debug\net5.0\Nuvem3.runtimeconfig.json
+D:\Projects\Nuvem3\backend\app\Nuvem3\bin\Debug\net5.0\Nuvem3.runtimeconfig.dev.json
+D:\Projects\Nuvem3\backend\app\Nuvem3\obj\Debug\net5.0\Nuvem3.csprojAssemblyReference.cache
+D:\Projects\Nuvem3\backend\app\Nuvem3\obj\Debug\net5.0\Nuvem3.genruntimeconfig.cache
